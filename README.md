@@ -40,4 +40,4 @@ $ npm link
 $ creator
 ```
 
-#Thanks!
+# Thanks!
