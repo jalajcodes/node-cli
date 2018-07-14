@@ -7,8 +7,8 @@ const figlet = require("figlet");
 
 const init = () => {
   console.log(
-      chalk.green(
-         figlet.textSync("Simple Node CLI", {
+      chalk.bgBlue.yellow(
+         figlet.textSync("Simple Node CLI\n\n", {
                     // font: "Ghost",
                      horizontalLayout: "default",
                      verticalLayout: "default"
